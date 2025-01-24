@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to use Github!
 - 👯 I’m looking to collaborate on projects and learn as much as I can.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I live in Nashville, TN!
+- ⚡ Fun fact: I love creating art!
 -->
 	![alt text](image.jpg)
+![67405262_724113651381791_7394105073683225326_n](https://github.com/user-attachments/assets/92813b2d-a395-4c56-9053-1efa41407d77)
