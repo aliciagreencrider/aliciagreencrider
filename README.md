@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love creating art!
 -->
-	![alt text](image.jpg)
+	
 ![67405262_724113651381791_7394105073683225326_n](https://github.com/user-attachments/assets/92813b2d-a395-4c56-9053-1efa41407d77)
