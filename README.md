@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to use Github!
 - 👯 I’m looking to collaborate on projects and learn as much as I can.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love creating art!
+- ⚡ Fun fact: I love creating art! Mostly watercolors and acrylic like below. :)
 
 <!--
 **aliciagreencrider/aliciagreencrider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
